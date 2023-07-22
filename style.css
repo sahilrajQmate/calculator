@@ -1,0 +1,54 @@
+.container{
+    margin-top: 30px;
+    display: flex;
+    margin: 65px auto;
+    height:  550px;
+    width: 300px;
+    border: 2px solid black;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 45px;
+    align-items: center;
+    
+    background-color: black;
+}
+.button{
+    height: 50px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 23px;
+    width: 50px;
+    background-color: #f3f3f3
+}
+.btn1{
+    background-color:black;
+    
+}
+
+.btn-box{
+    margin-top: 80px;
+}
+*{
+    background-color:antiquewhite ;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+
+input{
+
+   background-color: white;
+   height:  50px;
+   width: 247px;
+   border: 2px solid black;
+   border-radius:  10px;
+   font-size: 26px;
+}
+.show-box{
+    background-color: black;
+}
+h3{
+    background-color: black;
+    color: white;
+    text-shadow: 3px 4px black;
+}
